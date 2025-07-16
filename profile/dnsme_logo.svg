@@ -2,7 +2,7 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
-  width="200" height="80"
+  width="495" height="109"
   viewBox="0 0 495 109"
 >
   <style>
@@ -19,13 +19,13 @@
 
   <image
     class="light"
-    xlink:href="https://raw.githubusercontent.com/DNSMadeEasy/.github/main/img/dnsme_logo_light.png"
+    xlink:href="../img/dnsme_logo_light.png"
     x="0" y="0"
     width="495" height="109"
   />
   <image
     class="dark"
-    xlink:href="https://raw.githubusercontent.com/DNSMadeEasy/.github/main/img/dnsme_logo_dark.png"
+    xlink:href="../img/dnsme_logo_dark.png"
     x="0" y="0"
     width="495" height="109"
   />
