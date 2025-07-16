@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="200" height="80" viewBox="0 0 200 80">
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="200" height="80"
+  viewBox="0 0 200 80"
+>
   <style>
-    /* default: show only the light‑mode image */
+    /* light mode: show only the “light” PNG */
     .light { display: inline; }
     .dark  { display: none; }
 
-    /* dark‑mode: hide light, show dark */
+    /* dark mode: swap them */
     @media (prefers-color-scheme: dark) {
       .light { display: none; }
       .dark  { display: inline; }
     }
   </style>
 
-  <image class="light" href="dnsme_logo_light.png"/>
-  <image class="dark"  href="dnsme_logo_dark.png"/>
+  <image
+    class="light"
+    xlink:href="dnsme_logo_light.png"
+    x="0" y="0"
+    width="495" height="109"
+  />
+  <image
+    class="dark"
+    xlink:href="dnsme_logo_dark.png"
+    x="0" y="0"
+    width="495" height="109"
+  />
 </svg>
+
