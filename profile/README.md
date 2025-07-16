@@ -12,7 +12,7 @@
 
 - **UltraDNS**      – https://github.com/UltraDNS  
 - **Constellix**    – https://github.com/Constellix  
-- **DigiCert**      – https://github.com/digicert  
+- **DigiCert**      – https://github.com/DigiCert
 
 ## Governance & Community
 
