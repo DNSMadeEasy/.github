@@ -1,6 +1,6 @@
 # DNSMadeEasy on GitHub
 
-![DNSMadeEasy Logo](../img/dnsme_logo.svg)
+![DNSMadeEasy Logo](https://raw.githubusercontent.com/DNSMadeEasy/.github/refs/heads/main/img/dnsme_logo.svg)
 
 ## Quick Links
 
@@ -16,9 +16,9 @@
 
 ## Governance & Community
 
-- **Code of Conduct**: [CODE_OF_CONDUCT.md](https://github.com/DNSMadeEasy/.github/blob/master/CODE_OF_CONDUCT.md)  
-- **Contributing**: [CONTRIBUTING.md](https://github.com/DNSMadeEasy/.github/blob/master/CONTRIBUTING.md)  
-- **Security**: [SECURITY.md](https://github.com/DNSMadeEasy/.github/blob/master/SECURITY.md)  
+- **Code of Conduct**: [CODE_OF_CONDUCT.md](https://github.com/DNSMadeEasy/.github/blob/main/CODE_OF_CONDUCT.md)  
+- **Contributing**: [CONTRIBUTING.md](https://github.com/DNSMadeEasy/.github/blob/main/CONTRIBUTING.md)  
+- **Security**: [SECURITY.md](https://github.com/DNSMadeEasy/.github/blob/main/SECURITY.md)  
 
 ## Getting Help
 

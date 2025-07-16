@@ -87,4 +87,4 @@ Please describe the impact of this bug:
 
 ---
 
-**Note:** For security vulnerabilities, please do not create a public issue. Instead, email [support@dnsmadeeasy.com](mailto:support@dnsmadeeasy.com) as described in our [Security Policy](https://github.com/DNSMadeEasy/.github/blob/master/SECURITY.md).
+**Note:** For security vulnerabilities, please do not create a public issue. Instead, email [support@dnsmadeeasy.com](mailto:support@dnsmadeeasy.com) as described in our [Security Policy](https://github.com/DNSMadeEasy/.github/blob/main/SECURITY.md).
