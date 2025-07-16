@@ -1,6 +1,6 @@
 # DNSMadeEasy on GitHub
 
-![DNSMadeEasy Logo](dnsme_logo.svg)
+![DNSMadeEasy Logo](../img/dnsme_logo.svg)
 
 ## Quick Links
 
